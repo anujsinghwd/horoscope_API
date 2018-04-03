@@ -55,4 +55,13 @@
     "SunSign": "leo"
 }
 ```
+
+
+
+# Contributing
+
+
+#### Note 1 : Data Fetch From [GaneshaSpeaks](http://www.ganeshaspeaks.com/) unofficialy.
+
+#### Note 2 : If the API is not working properly, please open a issue.
         
